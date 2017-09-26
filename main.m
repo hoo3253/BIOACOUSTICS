@@ -23,5 +23,5 @@ lh = addlistener(s,'DataAvailable', plotFFT);
 startBackground(s);
 
 %%
-delete(lh)
+
 
