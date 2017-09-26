@@ -24,4 +24,5 @@ startBackground(s);
 
 %%
 
+delete(lh)
 
